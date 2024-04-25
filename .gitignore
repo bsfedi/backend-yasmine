@@ -1,0 +1,14 @@
+__pycache__/
+src/app/__pycache__/
+src/app/user/__pycache__/
+src/app/__pycache__/
+src/app/user/__pycache__/
+src/app/usecase/__pycache__/
+src/app/ai_model/__pycache__/
+src/app/ai_model/__pycache__/
+../__pycache__/
+*.pyc
+/venv
+/env
+./venv
+./env
